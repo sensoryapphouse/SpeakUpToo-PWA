@@ -1,0 +1,32 @@
+{
+  "name": "Sensory Speak Up Too speech trainer",
+  "short_name": "Speak Up Too",
+  "icons": [{
+    "src": "images/speakuptoo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "images/speakuptoo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "images/speakuptoo152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "images/speakuptoo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "images/speakuptoo256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "images/speakuptoo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
